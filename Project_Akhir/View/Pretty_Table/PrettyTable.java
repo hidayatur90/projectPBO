@@ -1,4 +1,4 @@
-package com.javaoop.materi.Pretty_Table;
+package com.javaoop.tugas.SMT_3.Project_Akhir.View.Pretty_Table;
 
 import org.apache.commons.lang3.StringUtils;
 
