@@ -1,4 +1,4 @@
-package com.javaoop.tugas.SMT_3.Project_Akhir.View.Pretty_Table;
+package com.javaoop.tugas.smt_3.project_akhir.main_project.view.Pretty_Table;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -6,9 +6,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by salim on 6/1/17.
- */
 public class PrettyTable {
     private List<String> headers = new ArrayList<>();
     private List<List<String>> data = new ArrayList<>();

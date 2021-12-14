@@ -1,4 +1,4 @@
-package com.javaoop.tugas.SMT_3.Project_Akhir.View.Pretty_Table;
+package com.javaoop.tugas.smt_3.project_akhir.main_project.view.Pretty_Table;
 
 public class test {
     public static void main(String[] args) {
